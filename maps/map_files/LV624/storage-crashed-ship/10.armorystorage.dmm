@@ -1,4 +1,7 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/slippery/hull/colorable/grey/dir/southeast,
+/area/sky)
 "b" = (
 /obj/structure/surface/rack,
 /obj/item/stack/sheet/mineral/gold{
@@ -14,6 +17,9 @@
 /obj/effect/landmark/objective_landmark/close,
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"c" = (
+/turf/open/slippery/hull/colorable/grey/dir/east,
+/area/sky)
 "d" = (
 /obj/item/tool/shovel,
 /turf/open/floor/dark,
@@ -28,6 +34,9 @@
 	},
 /turf/open/floor/dark,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"f" = (
+/turf/open/slippery/hull/colorable/grey/dir/northeast,
+/area/sky)
 "i" = (
 /obj/structure/surface/rack,
 /obj/item/ammo_magazine/smg/mp27,
@@ -52,6 +61,9 @@
 "j" = (
 /turf/closed/wall,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"m" = (
+/turf/open/slippery/hull/colorable/grey/tiles,
+/area/sky)
 "n" = (
 /obj/structure/surface/rack,
 /obj/item/stack/sheet/mineral/gold{
@@ -66,9 +78,15 @@
 /obj/effect/landmark/objective_landmark/medium,
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"o" = (
+/turf/open/slippery/hull/colorable/grey/tiles/east,
+/area/sky)
 "p" = (
 /turf/open/gm/dirt,
 /area/lv624/ground/barrens/north_east_barrens)
+"q" = (
+/turf/open/slippery/hull/colorable/grey/dir/north,
+/area/sky)
 "s" = (
 /obj/structure/closet/crate,
 /obj/item/ammo_magazine/rifle/mar40,
@@ -92,6 +110,9 @@
 /obj/effect/landmark/crap_item,
 /turf/open/floor/dark,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"w" = (
+/turf/open/slippery/hull/colorable/grey/dir/west,
+/area/sky)
 "x" = (
 /obj/structure/surface/rack,
 /obj/item/weapon/gun/smg/fp9000,
@@ -130,6 +151,9 @@
 /obj/item/ammo_magazine/rifle/mar40/extended,
 /turf/open/floor/dark,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"E" = (
+/turf/open_space,
+/area/sky)
 "F" = (
 /obj/structure/surface/table/reinforced/prison,
 /obj/item/weapon/gun/smg/nailgun,
@@ -148,6 +172,9 @@
 	},
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"H" = (
+/turf/open/slippery/hull/colorable/grey/dir/northwest,
+/area/sky)
 "I" = (
 /obj/structure/machinery/light{
 	dir = 4
@@ -167,10 +194,16 @@
 	},
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"J" = (
+/turf/open/slippery/hull/colorable/grey/dir,
+/area/sky)
 "K" = (
 /obj/effect/landmark/crap_item,
 /turf/open/gm/dirt,
 /area/lv624/ground/barrens/north_east_barrens)
+"M" = (
+/turf/open/slippery/hull/colorable/grey/dir/southwest,
+/area/sky)
 "N" = (
 /turf/open/floor/dark,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
@@ -195,6 +228,9 @@
 	},
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"R" = (
+/turf/open/slippery/hull/colorable/grey/corner,
+/area/sky)
 "T" = (
 /obj/structure/machinery/door/airlock/almayer/secure/colony{
 	icon_state = "door_locked";
@@ -346,4 +382,115 @@ j
 p
 p
 p
+"}
+
+(1,1,2) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(2,1,2) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(3,1,2) = {"
+H
+w
+w
+w
+w
+w
+w
+M
+"}
+(4,1,2) = {"
+q
+m
+m
+m
+o
+m
+m
+J
+"}
+(5,1,2) = {"
+q
+m
+m
+m
+o
+m
+m
+J
+"}
+(6,1,2) = {"
+q
+m
+m
+m
+o
+m
+m
+J
+"}
+(7,1,2) = {"
+q
+m
+m
+m
+o
+m
+m
+J
+"}
+(8,1,2) = {"
+q
+m
+m
+m
+o
+m
+m
+J
+"}
+(9,1,2) = {"
+q
+m
+m
+m
+R
+c
+c
+a
+"}
+(10,1,2) = {"
+q
+m
+m
+m
+J
+E
+E
+E
+"}
+(11,1,2) = {"
+f
+c
+c
+c
+a
+E
+E
+E
 "}

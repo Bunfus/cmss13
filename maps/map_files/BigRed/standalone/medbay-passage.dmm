@@ -59,6 +59,12 @@
 	},
 /turf/open/floor/asteroidfloor/north,
 /area/bigredv2/outside/c)
+"A" = (
+/turf/open_space,
+/area/sky)
+"L" = (
+/turf/open/slippery/hull/dir/north,
+/area/sky)
 "R" = (
 /turf/closed/wall/solaris/reinforced,
 /area/bigredv2/outside/admin_building)
@@ -127,4 +133,53 @@ l
 l
 l
 R
+"}
+
+(1,1,2) = {"
+A
+A
+A
+A
+A
+L
+"}
+(2,1,2) = {"
+A
+A
+A
+A
+A
+L
+"}
+(3,1,2) = {"
+A
+A
+A
+A
+A
+L
+"}
+(4,1,2) = {"
+A
+A
+A
+A
+A
+L
+"}
+(5,1,2) = {"
+A
+A
+A
+A
+A
+L
+"}
+(6,1,2) = {"
+A
+A
+A
+A
+A
+L
 "}

@@ -4,6 +4,9 @@
 /obj/effect/decal/cleanable/blood/oil,
 /turf/open/auto_turf/sand/layer0,
 /area/kutjevo/interior/construction/signal_tower)
+"aK" = (
+/turf/open/slippery/hull,
+/area/sky)
 "cm" = (
 /turf/open/floor/kutjevo/tan/grey_edge/west,
 /area/kutjevo/interior/construction/signal_tower)
@@ -22,6 +25,9 @@
 /obj/item/stack/sheet/metal,
 /turf/open/auto_turf/sand/layer0,
 /area/kutjevo/interior/construction/signal_tower)
+"fd" = (
+/turf/open/slippery/hull/dir/southwest,
+/area/sky)
 "gD" = (
 /obj/item/stack/rods,
 /obj/item/tool/warning_cone,
@@ -54,6 +60,9 @@
 	},
 /turf/open/floor/kutjevo/grey/plate,
 /area/kutjevo/interior/construction/signal_tower)
+"mm" = (
+/turf/open/slippery/hull/corner/north,
+/area/sky)
 "mv" = (
 /obj/structure/girder,
 /turf/open/floor/plating/kutjevo,
@@ -155,6 +164,15 @@
 	},
 /turf/open/floor/kutjevo/grey/plate,
 /area/kutjevo/interior/construction/signal_tower)
+"vl" = (
+/turf/open/slippery/hull/dir/southeast,
+/area/sky)
+"vn" = (
+/turf/open/slippery/hull/dir/west,
+/area/sky)
+"vE" = (
+/turf/open/slippery/hull/dir/east,
+/area/sky)
 "wh" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/auto_turf/sand/layer0,
@@ -194,6 +212,9 @@
 	},
 /turf/open/floor/kutjevo/grey/plate,
 /area/kutjevo/interior/construction/signal_tower)
+"ye" = (
+/turf/open/slippery/hull/corner/east,
+/area/sky)
 "yQ" = (
 /obj/structure/machinery/light{
 	dir = 1
@@ -213,6 +234,9 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/kutjevo/tan/grey_edge/east,
 /area/kutjevo/interior/construction/signal_tower)
+"Aj" = (
+/turf/open/slippery/hull/dir/north,
+/area/sky)
 "Ca" = (
 /obj/structure/window/framed/kutjevo,
 /obj/structure/barricade/handrail/kutjevo{
@@ -333,6 +357,9 @@
 /obj/structure/prop/almayer/computers/sensor_computer1,
 /turf/open/floor/kutjevo/grey/plate,
 /area/kutjevo/interior/construction/signal_tower)
+"Pu" = (
+/turf/open/slippery/hull/dir,
+/area/sky)
 "Re" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/tool/warning_cone,
@@ -401,6 +428,9 @@
 	},
 /turf/open/floor/plating/kutjevo,
 /area/kutjevo/interior/construction/signal_tower)
+"Zy" = (
+/turf/open/slippery/hull/dir/northeast,
+/area/sky)
 
 (1,1,1) = {"
 SZ
@@ -513,4 +543,117 @@ mv
 ry
 XS
 mv
+"}
+
+(1,1,2) = {"
+mm
+vn
+vn
+vn
+vn
+vn
+vn
+vn
+vn
+vn
+vn
+fd
+"}
+(2,1,2) = {"
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+Pu
+"}
+(3,1,2) = {"
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+Pu
+"}
+(4,1,2) = {"
+ye
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+Pu
+"}
+(5,1,2) = {"
+Aj
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+Pu
+"}
+(6,1,2) = {"
+Aj
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+Pu
+"}
+(7,1,2) = {"
+Aj
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+Pu
+"}
+(8,1,2) = {"
+Zy
+vE
+vE
+vE
+vE
+vE
+vE
+vE
+vE
+vE
+vE
+vl
 "}

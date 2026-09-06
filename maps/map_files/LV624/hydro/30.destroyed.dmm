@@ -181,6 +181,9 @@
 	},
 /turf/open/floor/plating,
 /area/lv624/lazarus/hydroponics)
+"rX" = (
+/turf/open/slippery/hull/colorable/grey/dir/north,
+/area/sky)
 "se" = (
 /obj/structure/fence,
 /turf/open/gm/dirtgrassborder/south,
@@ -352,6 +355,9 @@
 /obj/effect/landmark/crap_item,
 /turf/open/floor/platingdmg1,
 /area/lv624/lazarus/hydroponics)
+"IR" = (
+/turf/open/slippery/hull/colorable/grey/tiles,
+/area/sky)
 "Jc" = (
 /obj/item/stack/sheet/metal,
 /obj/effect/decal/cleanable/blood/tracks/footprints{
@@ -473,6 +479,9 @@
 "QR" = (
 /turf/open/floor/plating/panelscorched,
 /area/lv624/lazarus/hydroponics)
+"Rl" = (
+/turf/open_space,
+/area/sky)
 "RT" = (
 /obj/item/clothing/shoes/veteran/pmc{
 	armor_bio = 15;
@@ -517,6 +526,10 @@
 /obj/item/weapon/gun/rifle/nsg23/no_lock,
 /turf/open/floor/plating/platingdmg3,
 /area/lv624/lazarus/hydroponics)
+"Wc" = (
+/obj/structure/prop/invuln/lattice_prop,
+/turf/open_space,
+/area/sky)
 "Wg" = (
 /turf/open/floor/plating,
 /area/lv624/lazarus/hydroponics)
@@ -808,4 +821,261 @@ XA
 XA
 XA
 bM
+"}
+
+(1,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+rX
+IR
+IR
+Wc
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(2,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+rX
+IR
+Wc
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(3,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(4,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(5,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(6,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(7,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(8,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(9,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(10,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(11,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(12,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(13,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(14,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(15,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+"}
+(16,1,2) = {"
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
+Rl
 "}

@@ -21,6 +21,9 @@
 /obj/structure/machinery/medical_pod/sleeper,
 /turf/open/floor/whitebluefull,
 /area/lv624/lazarus/medbay)
+"bO" = (
+/turf/open/floor/whitebluecorner/north,
+/area/lv624/lazarus/medbay)
 "cQ" = (
 /obj/structure/machinery/sleep_console,
 /obj/structure/extinguisher_cabinet{
@@ -28,6 +31,21 @@
 	},
 /turf/open/floor/whitebluefull,
 /area/lv624/lazarus/medbay)
+"dU" = (
+/turf/open/slippery/hull/colorable/grey/corner/north,
+/area/sky)
+"em" = (
+/turf/open/slippery/hull/colorable/grey/corner_alt/north,
+/area/sky)
+"ff" = (
+/turf/open/slippery/hull/colorable/grey/dir/north,
+/area/sky)
+"fn" = (
+/turf/open/slippery/hull/colorable/grey/dir/northwest,
+/area/sky)
+"fA" = (
+/turf/open/slippery/hull/colorable/grey/tiles,
+/area/sky)
 "fX" = (
 /turf/open/floor/plating/panelscorched,
 /area/lv624/lazarus/medbay)
@@ -39,7 +57,7 @@
 /area/lv624/lazarus/medbay)
 "hW" = (
 /obj/structure/machinery/power/apc/no_power/north,
-/turf/open/floor/white,
+/turf/open/floor/whiteblue/north,
 /area/lv624/lazarus/medbay)
 "ih" = (
 /obj/structure/machinery/medical_pod/bodyscanner,
@@ -65,10 +83,13 @@
 /obj/structure/machinery/body_scanconsole,
 /turf/open/floor/whitebluefull,
 /area/lv624/lazarus/medbay)
+"jV" = (
+/turf/open/slippery/hull/colorable/grey/corner/west,
+/area/sky)
 "jW" = (
 /obj/item/storage/firstaid/toxin,
 /obj/structure/barricade/wooden,
-/turf/open/floor/white,
+/turf/open/floor/whiteblue/southwest,
 /area/lv624/lazarus/medbay)
 "jY" = (
 /obj/structure/flora/jungle/planttop1,
@@ -83,7 +104,7 @@
 /obj/item/clothing/glasses/hud/health,
 /obj/effect/landmark/crap_item,
 /obj/item/reagent_container/spray/cleaner,
-/turf/open/floor/white,
+/turf/open/floor/whitebluefull,
 /area/lv624/lazarus/medbay)
 "kD" = (
 /obj/structure/flora/jungle/planttop1,
@@ -124,6 +145,9 @@
 /obj/structure/fence,
 /turf/open/gm/dirtgrassborder/south,
 /area/lv624/ground/colony/south_medbay_road)
+"nY" = (
+/turf/open_space,
+/area/sky)
 "og" = (
 /turf/open/gm/dirt,
 /area/lv624/ground/colony/south_medbay_road)
@@ -151,7 +175,7 @@
 	pixel_x = 5;
 	pixel_y = 4
 	},
-/turf/open/floor/white,
+/turf/open/floor/whitebluefull,
 /area/lv624/lazarus/medbay)
 "rL" = (
 /obj/effect/landmark/crap_item,
@@ -171,6 +195,9 @@
 	},
 /turf/open/floor/whiteblue/northeast,
 /area/lv624/lazarus/medbay)
+"tW" = (
+/turf/open/slippery/hull/colorable/grey/corner,
+/area/sky)
 "uV" = (
 /turf/open/floor/damaged3/west,
 /area/lv624/lazarus/medbay)
@@ -178,10 +205,16 @@
 /obj/effect/decal/cleanable/blood/drip,
 /turf/open/floor/platingdmg1,
 /area/lv624/lazarus/medbay)
+"vE" = (
+/turf/open/slippery/hull/colorable/grey/dir,
+/area/sky)
 "xe" = (
 /obj/structure/fence,
 /turf/open/gm/dirtgrassborder/west,
 /area/lv624/ground/colony/south_medbay_road)
+"xz" = (
+/turf/open/floor/whiteblue/west,
+/area/lv624/lazarus/medbay)
 "xF" = (
 /obj/structure/surface/table/reinforced,
 /obj/item/storage/surgical_tray,
@@ -230,6 +263,9 @@
 /obj/structure/flora/bush/ausbushes/lavendergrass,
 /turf/open/gm/grass/grass1,
 /area/lv624/ground/jungle/north_west_jungle)
+"AX" = (
+/turf/open/slippery/hull/colorable/grey/dir/west,
+/area/sky)
 "Be" = (
 /obj/structure/fence,
 /turf/open/gm/dirtgrassborder/grassdirt_corner/north_west,
@@ -242,6 +278,9 @@
 /obj/item/shard,
 /turf/open/floor/plating/platingdmg3,
 /area/lv624/lazarus/medbay)
+"Cp" = (
+/turf/open/slippery/hull/colorable/grey/dir/southeast,
+/area/sky)
 "Cq" = (
 /obj/structure/machinery/optable,
 /obj/item/tank/anesthetic,
@@ -253,6 +292,10 @@
 /obj/effect/landmark/corpsespawner/engineer,
 /turf/open/floor/plating/platingdmg3,
 /area/lv624/lazarus/medbay)
+"Dg" = (
+/obj/structure/prop/invuln/lattice_prop,
+/turf/open_space,
+/area/sky)
 "Dk" = (
 /obj/effect/landmark/crap_item,
 /obj/effect/decal/cleanable/blood,
@@ -334,6 +377,9 @@
 /obj/effect/landmark/objective_landmark/medium,
 /turf/open/floor/white,
 /area/lv624/lazarus/medbay)
+"MF" = (
+/turf/open/slippery/hull/colorable/grey/dir/east,
+/area/sky)
 "MT" = (
 /obj/item/device/radio/intercom{
 	freerange = 1;
@@ -352,7 +398,7 @@
 "Ny" = (
 /obj/structure/window_frame/colony,
 /obj/item/shard,
-/turf/open/floor/white,
+/turf/open/floor/plating/panelscorched,
 /area/lv624/lazarus/medbay)
 "NO" = (
 /obj/structure/surface/table,
@@ -366,7 +412,7 @@
 	},
 /obj/item/storage/belt/medical/full,
 /obj/effect/landmark/objective_landmark/medium,
-/turf/open/floor/white,
+/turf/open/floor/whiteblue/northwest,
 /area/lv624/lazarus/medbay)
 "Os" = (
 /obj/structure/surface/table,
@@ -448,6 +494,19 @@
 /obj/structure/machinery/door/airlock/multi_tile/almayer/medidoor/colony,
 /turf/open/floor/white,
 /area/lv624/lazarus/medbay)
+"Vi" = (
+/turf/open/slippery/hull/colorable/grey/dir/northeast,
+/area/sky)
+"Wd" = (
+/obj/structure/prop/roof/glass{
+	icon_state = "glass_2"
+	},
+/obj/structure/prop/roof/glass{
+	icon_state = "glass_roof_2";
+	color = "#8a8f88"
+	},
+/turf/open_space,
+/area/sky)
 "Xv" = (
 /obj/effect/landmark/crap_item,
 /turf/open/floor/white,
@@ -464,6 +523,9 @@
 "YV" = (
 /turf/open/floor/white,
 /area/lv624/lazarus/medbay)
+"ZD" = (
+/turf/open/slippery/hull/colorable/grey/corner/east,
+/area/sky)
 
 (1,1,1) = {"
 XA
@@ -565,7 +627,7 @@ XA
 XA
 XJ
 NO
-YV
+xz
 jW
 EZ
 JK
@@ -602,7 +664,7 @@ og
 XA
 XJ
 bk
-YV
+bO
 zl
 Iy
 YV
@@ -787,4 +849,328 @@ Bn
 nG
 og
 zj
+"}
+
+(1,1,2) = {"
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(2,1,2) = {"
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(3,1,2) = {"
+nY
+nY
+nY
+nY
+nY
+fn
+AX
+AX
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(4,1,2) = {"
+nY
+nY
+fn
+AX
+AX
+ff
+fA
+fA
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(5,1,2) = {"
+nY
+nY
+ff
+fA
+fA
+Vi
+ZD
+fA
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(6,1,2) = {"
+nY
+nY
+ff
+fA
+fA
+fA
+ff
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(7,1,2) = {"
+nY
+fn
+jV
+fA
+fA
+fA
+ff
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(8,1,2) = {"
+nY
+ff
+fA
+fA
+fA
+fA
+ff
+fA
+fA
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(9,1,2) = {"
+nY
+ff
+fA
+fA
+fA
+fA
+ff
+fA
+fA
+Dg
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(10,1,2) = {"
+nY
+ff
+fA
+fA
+fA
+fA
+ff
+fA
+fA
+fA
+Dg
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(11,1,2) = {"
+nY
+ff
+fA
+fA
+fA
+fA
+ff
+tW
+MF
+MF
+em
+Dg
+Dg
+nY
+nY
+nY
+nY
+"}
+(12,1,2) = {"
+nY
+Vi
+ZD
+fA
+fA
+fA
+ff
+vE
+Wd
+Wd
+ff
+fA
+Dg
+nY
+nY
+nY
+nY
+"}
+(13,1,2) = {"
+nY
+nY
+ff
+fA
+fA
+fA
+ff
+vE
+Wd
+Wd
+ff
+fA
+fA
+vE
+nY
+nY
+nY
+"}
+(14,1,2) = {"
+nY
+nY
+ff
+fA
+fA
+fn
+jV
+dU
+AX
+AX
+jV
+fA
+fA
+vE
+nY
+nY
+nY
+"}
+(15,1,2) = {"
+nY
+nY
+Vi
+MF
+MF
+ff
+fA
+fA
+fA
+fA
+tW
+MF
+MF
+Cp
+nY
+nY
+nY
+"}
+(16,1,2) = {"
+nY
+nY
+nY
+nY
+nY
+Vi
+MF
+MF
+MF
+MF
+Cp
+nY
+nY
+nY
+nY
+nY
+nY
+"}
+(17,1,2) = {"
+nY
+nY
+nY
+nY
+nY
+nY
+ff
+fA
+fA
+vE
+nY
+nY
+nY
+nY
+nY
+nY
+nY
 "}

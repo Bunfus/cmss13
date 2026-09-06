@@ -1,4 +1,13 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/slippery/hull/colorable/grey/dir/northeast,
+/area/sky)
+"b" = (
+/turf/open/slippery/hull/colorable/grey/dir/northwest,
+/area/sky)
+"c" = (
+/turf/open/slippery/hull/colorable/grey/dir/east,
+/area/sky)
 "d" = (
 /obj/structure/surface/rack,
 /obj/item/stack/sheet/mineral/sandstone{
@@ -20,6 +29,9 @@
 "f" = (
 /turf/closed/wall,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"g" = (
+/turf/open/slippery/hull/colorable/grey/dir/north,
+/area/sky)
 "i" = (
 /obj/structure/surface/rack,
 /obj/item/stack/sheet/mineral/diamond{
@@ -27,6 +39,9 @@
 	},
 /turf/open/floor/dark,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"k" = (
+/turf/open_space,
+/area/sky)
 "l" = (
 /obj/effect/landmark/crap_item,
 /obj/effect/alien/weeds/node,
@@ -88,6 +103,9 @@
 /obj/effect/landmark/objective_landmark/science,
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"B" = (
+/turf/open/slippery/hull/colorable/grey/dir/southeast,
+/area/sky)
 "C" = (
 /obj/structure/surface/rack,
 /obj/item/stack/sheet/mineral/platinum{
@@ -121,6 +139,9 @@
 	},
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"K" = (
+/turf/open/slippery/hull/colorable/grey/dir/southwest,
+/area/sky)
 "M" = (
 /obj/structure/surface/rack,
 /obj/item/stack/sheet/mineral/iron{
@@ -136,6 +157,9 @@
 "O" = (
 /turf/open/gm/dirt,
 /area/lv624/ground/barrens/north_east_barrens)
+"P" = (
+/turf/open/slippery/hull/colorable/grey/tiles,
+/area/sky)
 "R" = (
 /obj/structure/surface/rack,
 /obj/item/weapon/gun/rifle/mar40{
@@ -147,6 +171,9 @@
 /obj/effect/landmark/crap_item,
 /turf/open/floor/vault2/west,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"T" = (
+/turf/open/slippery/hull/colorable/grey/dir/west,
+/area/sky)
 "U" = (
 /obj/structure/closet/crate,
 /obj/item/ammo_magazine/rifle/mar40,
@@ -170,6 +197,9 @@
 /obj/effect/landmark/objective_landmark/close,
 /turf/open/floor/dark,
 /area/lv624/ground/barrens/north_east_barrens/ceiling)
+"W" = (
+/turf/open/slippery/hull/colorable/grey/dir,
+/area/sky)
 "X" = (
 /obj/structure/machinery/door/airlock/almayer/secure/colony{
 	icon_state = "door_locked";
@@ -292,4 +322,115 @@ O
 N
 O
 O
+"}
+
+(1,1,2) = {"
+k
+k
+k
+k
+k
+k
+k
+k
+"}
+(2,1,2) = {"
+k
+k
+k
+k
+k
+k
+k
+k
+"}
+(3,1,2) = {"
+b
+T
+T
+T
+T
+T
+K
+k
+"}
+(4,1,2) = {"
+g
+P
+P
+P
+P
+P
+W
+k
+"}
+(5,1,2) = {"
+g
+P
+P
+P
+P
+P
+W
+k
+"}
+(6,1,2) = {"
+g
+P
+P
+P
+P
+P
+W
+k
+"}
+(7,1,2) = {"
+g
+P
+P
+P
+P
+P
+W
+k
+"}
+(8,1,2) = {"
+g
+P
+P
+P
+P
+P
+W
+k
+"}
+(9,1,2) = {"
+g
+P
+P
+P
+P
+P
+W
+k
+"}
+(10,1,2) = {"
+a
+c
+c
+c
+c
+c
+B
+k
+"}
+(11,1,2) = {"
+k
+k
+k
+k
+k
+k
+k
+k
 "}

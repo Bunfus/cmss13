@@ -46,7 +46,7 @@
 	},
 /obj/item/storage/belt/medical/full,
 /obj/effect/landmark/objective_landmark/close,
-/turf/open/floor/whiteblue/north,
+/turf/open/floor/whiteblue/northwest,
 /area/lv624/lazarus/medbay)
 "ap" = (
 /obj/structure/machinery/medical_pod/bodyscanner,
@@ -209,7 +209,7 @@
 	pixel_y = 4
 	},
 /obj/item/tool/pen,
-/turf/open/floor/white,
+/turf/open/floor/whiteblue/southeast,
 /area/lv624/lazarus/medbay)
 "bB" = (
 /obj/effect/landmark/crap_item,
@@ -386,7 +386,7 @@
 	phone_category = "Lazarus Landing";
 	phone_id = "Medbay"
 	},
-/turf/open/floor/white,
+/turf/open/floor/whiteblue/east,
 /area/lv624/lazarus/medbay)
 "Qu" = (
 /obj/structure/machinery/body_scanconsole,
@@ -401,7 +401,7 @@
 "QQ" = (
 /obj/structure/surface/table,
 /obj/effect/landmark/item_pool_spawner/survivor_ammo/buckshot,
-/turf/open/floor/whiteblue/west,
+/turf/open/floor/whiteblue/southwest,
 /area/lv624/lazarus/medbay)
 "TK" = (
 /obj/structure/machinery/door/airlock/multi_tile/almayer/medidoor/colony,

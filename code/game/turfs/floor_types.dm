@@ -325,9 +325,6 @@
 /turf/open/floor/plating/plating_catwalk/strata
 	icon = 'icons/turf/floors/strata_floor.dmi'
 
-/turf/open/floor/plating/plating_catwalk/strata_alt
-	icon = 'icons/turf/floors/lava/lava_turf.dmi'
-
 /turf/open/floor/plating/plating_catwalk/shiva
 	icon = 'icons/turf/floors/ice_colony/shiva_floor.dmi'
 
